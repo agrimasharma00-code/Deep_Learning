@@ -1,6 +1,6 @@
 # Deep_Learning
--Learned Basic of deep learning using tensor flow 
-and Performed Iris_prediction using ANN(Artificial neural networks)
+-Learned Basics of deep learning using tensor flow (keras)
+and Performed Iris_prediction using ANN (Artificial neural networks)
 
 # MNIST Digit Classifier: Perceptron vs ANN vs CNN
 This project demonstrates the implementation and comparison of three neural network architectures — Perceptron, Artificial Neural Network (ANN), and Convolutional Neural Network (CNN) — on the MNIST handwritten digit dataset.
