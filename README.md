@@ -5,7 +5,7 @@ and Performed Iris_prediction using ANN (Artificial neural networks)
 # MNIST Digit Classifier: Perceptron vs ANN vs CNN
 This project demonstrates the implementation and comparison of three neural network architectures — Perceptron, Artificial Neural Network (ANN), and Convolutional Neural Network (CNN) — on the MNIST handwritten digit dataset.
 
-## Features
+## Features:
 - Pixel normalization and image reshaping
 - One-hot encoding of labels
 - Perceptron, ANN, and CNN model implementation
